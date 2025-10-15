@@ -1,0 +1,7 @@
+# This is a dummy hugo.toml to make this repository a valid Hugo Module.
+# For configuration, please refer to your own site's hugo.toml.
+
+name = "hugo-steam-achievements-module"
+description = "A module to fetch and display Steam achievements."
+homepage = "https://github.com/your-username/hugo-steam-achievements-module" # TODO: Change this
+min_version = "0.41"
