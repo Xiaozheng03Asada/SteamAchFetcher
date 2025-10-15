@@ -1,3 +1,8 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img alt="LOGO" src="https://blogxiaozheng.oss-cn-beijing.aliyuncs.com/images/logo.png" width="256" height="256" />
+</p>
+
 # 🎮 Steam Achievements Fetcher & Display
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
