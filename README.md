@@ -82,7 +82,7 @@ python steam_achievements.py 2052410
 
 我们提供了灵活的 Shortcodes 来满足不同需求。
 
-#### 展示一个游戏的全部成就（推荐）
+#### 展示一个游戏的全部成就
 
 使用 `steam_achievements_from_file` 并指定数据文件路径。
 
